@@ -1,2 +1,2 @@
 # Hypothesis-Testing
-Contains hypothesis testing, and its application in a simple problem.
+Contains about hypothesis testing, and its application in simple problems. Provides a data preview, the descriptive statistics, and the hypothesis testing itself to make the decisions.
